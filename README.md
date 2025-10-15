@@ -8,9 +8,7 @@ Public URL: http://<EC2_PUBLIC_IP>
 This project demonstrates a production-ready DevOps pipeline that automates the full lifecycle — from code commit to deployment on AWS EC2, complete with monitoring and email alerts.
 
 **🏗️ Architecture Diagram**
-               <img width="1066" height="707" alt="image" src="https://github.com/user-attachments/assets/c28b5cac-6f2a-42b1-a469-f728f5863089" />
-
-
+               <img width="1280" height="720" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/6a75c889-53b4-424f-8302-b7ccd17c0a4f" />
 
 **🐳 Dockerization**
 Dockerfile
